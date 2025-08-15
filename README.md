@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aryan-singh-566081326/" target="_blank">
+  <a href="https://www.linkedin.com/in/aryean/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="73" height="38" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/_aryean_/" target="_blank">
@@ -37,7 +37,7 @@
   <a href="Aryean21@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="73" height="38" alt="gmail logo"  />
   </a>
-  <a href="https://x.com/aryan29071" target="_blank">
+  <a href="https://x.com/Aryeanite" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="73" height="38" alt="twitter logo"  />
   </a>
 </div>
